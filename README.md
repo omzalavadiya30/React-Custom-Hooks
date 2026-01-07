@@ -5,7 +5,7 @@ A React application built using Vite and Tailwind CSS (latest) that demonstrates
 ## 🚀 Live Demo
 
 🔗 Netlify Deployment:
-- [Netlify](https://vite-keeper-app.netlify.app/)
+- [Netlify](https://react-custom.netlify.app/)
 
 ##  🛠️ Tech Stack
 
